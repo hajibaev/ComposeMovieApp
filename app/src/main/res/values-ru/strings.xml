@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Movie</string>
+
+    <string name="error_unknown">Неизвестная ошибка</string>
+    <string name="error_connection_subtitle">Пожалуйста, проверьте интернет-соединения</string>
+    <string name="error_connection_title">Нет интернет-соединения</string>
+    <string name="error_base_title">Ошибка</string>
+    <string name="server_connection_error">Ошибка соединения с сервером</string>
+
+    <string name="dialog_back">Отмена</string>
+    <string name="dialog_retry">Повторить</string>
+
+    // Movie Type
+    <string name="movie_top_rated">Лучшие</string>
+    <string name="movie_up_coming">Ожидаемые</string>
+    <string name="movie_now_playing">Смотрят сейчас</string>
+    <string name="movie_popular">Популярные</string>
+    <string name="movie_trending">Трендовые</string>
+
+
+    // Bottom Navigation
+    <string name="bottom_home_title">Фильмы</string>
+    <string name="bottom_favorites_title">Избранные</string>
+    <string name="bottom_actors_title">Актеры</string>
+
+    // Theme
+    <string name="color_theme_light">Светлая</string>
+    <string name="color_theme_dark">Темная</string>
+
+</resources>

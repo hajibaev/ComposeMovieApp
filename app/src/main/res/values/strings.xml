@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie</string>
+
+    <string name="error_unknown">Unknown Error</string>
+    <string name="error_connection_subtitle">Please check your internet connection</string>
+    <string name="error_connection_title">No internet connection</string>
+    <string name="error_base_title">Error</string>
+    <string name="server_connection_error">Server networking error</string>
+
+    <string name="dialog_back">Back</string>
+    <string name="dialog_retry">Try Again</string>
+
+    // Movie Type
+    <string name="movie_top_rated">Top Rated</string>
+    <string name="movie_up_coming">Up Comping</string>
+    <string name="movie_now_playing">Now Playing</string>
+    <string name="movie_popular">Popular</string>
+    <string name="movie_trending">Trending</string>
+
+
+    // Bottom Navigation
+    <string name="bottom_home_title">Movies</string>
+    <string name="bottom_favorites_title">Favorites</string>
+    <string name="bottom_actors_title">Actors</string>
+
+    // Theme
+    <string name="color_theme_light">Light</string>
+    <string name="color_theme_dark">Dark</string>
+</resources>
